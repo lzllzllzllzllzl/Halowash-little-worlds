@@ -12,8 +12,8 @@ const pages = [
     out: "scene-home.html",
     title: "居家护理 · HaloWash 小世界",
     sign: "居家护理 · HaloWash",
-    aria: "HaloWash 居家护理小世界：森林小屋客厅里的光环护理舱，可拖拽旋转查看",
-    desc: "森林小屋的客厅里，长辈安坐在单人椅上，光环护理舱缓缓罩下 —— 不出门，也能完成一次温和的头皮洗护。",
+    aria: "HaloWash 居家护理小世界：家中客厅里的光环护理舱，可拖拽旋转查看",
+    desc: "家中客厅里，长辈安坐在单人椅上，光环护理舱缓缓罩下 —— 不出门，也能完成一次温和的头皮洗护。",
     model: "models/home.glb",
     azimuth: -41
   },
